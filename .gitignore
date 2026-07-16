@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.calibre-test/
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
